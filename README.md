@@ -8,7 +8,7 @@ Fonsync is a system which contains 2 apps: An Android app for reading all notifi
 WIP
 
 # Security features
-There are exactly 0 security measures taken. If there is any national security agency (for example National Security Agency) that is spying on you because they suspect you of criminal activity, please consider not using this software.
+There are exactly 0 security measures taken. If there is any national security agency (for example National Security Agency) that is spying on you for "safety of the nation", please consider not using this software.
 
 # License
 GNU General Public License v3.0
